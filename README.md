@@ -1,6 +1,5 @@
 # Movie-Recommendation-System-with-Collaborative-Filtering
 Movie Recommendation System with Collaborative Filtering
-# Movie Recommendation System Using Item Based Collaborative Filtering
 
 ## Collaborative Filtering
 Pemfilteran kolaboratif berbasis item adalah algoritma pemfilteran kolaboratif (CF) yang melihat ke dalam set item yang telah dinilai oleh pengguna target dan menghitung seberapa mirip mereka dengan target dan kemudian memilih k item yang paling mirip untuk di rekomendasi kan.
